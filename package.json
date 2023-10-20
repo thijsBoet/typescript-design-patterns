@@ -1,0 +1,27 @@
+{
+	"name": "typescript-design-patterns",
+	"version": "1.0.0",
+	"description": "Udemy course on TypeScript Design Patterns",
+	"scripts": {
+		"start": "(npx parcel ./02-oop-in-typescript.html) & npx parcel watch ./02-oop-in-typescript.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/thijsBoet/typescript-design-patterns.git"
+	},
+	"keywords": [
+		"typescript",
+		"design",
+		"patterns"
+	],
+	"author": "Manik Bajaj & Matthijs Boet",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/thijsBoet/typescript-design-patterns/issues"
+	},
+	"homepage": "https://github.com/thijsBoet/typescript-design-patterns#readme",
+	"devDependencies": {
+		"parcel": "^2.10.0",
+		"prettier": "3.0.3"
+	}
+}

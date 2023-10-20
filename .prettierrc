@@ -1,0 +1,19 @@
+# Ignore artifacts:
+build
+coverage
+
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+
+{
+  "tabWidth": 2,
+  "pribleWidth": 80,
+  "doubleQuote": true,
+  "trailingComma": "none",
+  "semi": true,
+  "bracketSpacing": true,
+  "jsxBracketSameLine": true,
+  "arrowParens": "as-needed",
+}

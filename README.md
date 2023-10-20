@@ -214,5 +214,5 @@ reusability? If so, you've come to the right place!
 
 ## 1. Introduction
 
-- Pause to try the exercises yourself.
+- Pause to try the all exercises yourself.
 - Do all six exercises to solidify patterns and principles.
