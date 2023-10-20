@@ -15,5 +15,6 @@ coverage
   "semi": true,
   "bracketSpacing": true,
   "jsxBracketSameLine": true,
-  "arrowParens": "as-needed",
+  "arrowParens": "avoid",
+  "parser": "typescript",
 }
