@@ -9,7 +9,7 @@ coverage
 
 {
   "tabWidth": 2,
-  "pribleWidth": 80,
+  "printWidth": 80,
   "doubleQuote": true,
   "trailingComma": "none",
   "semi": true,
