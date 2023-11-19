@@ -1,5 +1,4 @@
 // Single Responsibility Principle: Each class or module should have a single responsibility.
-
 class User {
   constructor( public name: string, public  email: string) { }
 
